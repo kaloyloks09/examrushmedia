@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/examrushmedia/static/css/main.28ccc88a.css",
+    "main.js": "/examrushmedia/static/js/main.c22cc525.js",
+    "index.html": "/examrushmedia/index.html",
+    "main.28ccc88a.css.map": "/examrushmedia/static/css/main.28ccc88a.css.map",
+    "main.c22cc525.js.map": "/examrushmedia/static/js/main.c22cc525.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28ccc88a.css",
+    "static/js/main.c22cc525.js"
+  ]
+}
